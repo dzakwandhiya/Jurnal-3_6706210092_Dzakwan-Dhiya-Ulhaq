@@ -48,7 +48,7 @@ public class Main {
             else if(daftarMenu == 2){
                 System.out.println("Pilih opsi data yang akan dihapus:");
                 System.out.println("1. Data Pertama");
-                System.out.println("2. Data Kedua");
+                System.out.println("2. Data Terakhir");
                 opsiHapus = input.nextInt();
 
                 //Opsi Hapus Posisi Data
